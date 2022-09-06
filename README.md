@@ -1,2 +1,2 @@
-# Epe1-Gomez-Solis
+# Epe1-Gomes-Solis
 Proyecto cabaña
