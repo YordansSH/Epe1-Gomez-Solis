@@ -25,7 +25,7 @@ Los usuarios responsables de esto, son tanto Kevin Gomez como Yordan Solis, los 
 Por ahora no se tiene pensado futuras versiones o actualizaciones para esta página web.
 
 ##Autores y agradecimientos: 
-Se agradece a los autores de https://puconoriente.cl/, ya que fue en lo que se baso el update de la página Playa Linda.
+Se agradece a los autores de https://puconoriente.cl/, ya que fue en lo que se basó el update de la página Playa Linda.
 Autores de este proyecto: Kevin Gomez / Yordan Solis.
 
 ##Estado del proyecto: 
