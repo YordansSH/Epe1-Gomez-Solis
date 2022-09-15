@@ -8,7 +8,8 @@ Proyecto New cabaña Linda
 Este proyecto se trata de la renovación de una página web, la cual está enfocada en el arriendo de cabañas en la zona sur de chile, en concreto en Villarrica. Por lo cual nosotros basándonos en otra pág. Como ejemplo, fuimos construyendo sobre esta misma, actualizando tanto la información, paleta de colores, imágenes, contenido audiovisual, direcciones, etc. Dejando así, una página totalmente renovada y más dinámica. 
 
 ##Visuales: 
---Url VIDEO Youtube 
+--Url VIDEO YouTube--
+https://youtu.be/slVA_UvqNa4
 
 ##Instalación: 
 Descomprimir el archivo .zip o .rar y luego abrirlo en tu code editor de preferencia para que puedas realizar los cambios preferentes. 
